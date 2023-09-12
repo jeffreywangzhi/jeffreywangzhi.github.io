@@ -37,6 +37,18 @@ body {
     color: var(--accentColor);
     font-size: 1.3rem;
     font-weight: bold;
+    line-height: 2.5;
+    display: block;
+    font-family: var(--font);
+    width: 100%;
+    text-align: center;
+    text-decoration: none;
+}
+
+#title {
+    color: var(--accentColor);
+    font-size: 1.0rem;
+    font-weight: bold;
     line-height: 1.25;
     display: block;
     font-family: var(--font);
