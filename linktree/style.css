@@ -48,8 +48,8 @@ body {
 
 #title {
     color: var(--accentColor);
-    font-size: 1.0rem;
-    font-weight: bold;
+    font-size: 1.1rem;
+    /* font-weight: bold; */
     line-height: 1.25;
     display: block;
     font-family: var(--font);
