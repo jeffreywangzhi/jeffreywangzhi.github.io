@@ -50,7 +50,7 @@ body {
     color: var(--accentColor);
     font-size: 1.1rem;
     /* font-weight: bold; */
-    line-height: 1.25;
+    line-height: 2;
     display: block;
     font-family: var(--font);
     width: 100%;
